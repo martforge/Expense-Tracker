@@ -2,17 +2,17 @@
 
 # Expense Tracker
 
-A Python-based **Expense Tracker** application to help you monitor and manage your daily expenses. This project was completed as part of the **Scientific Computing with Python** course from [FreeCodeCamp](https://www.freecodecamp.org/), specifically the *Build an Expense Tracker* project.
+A Python-based **Expense Tracker** designed to help users efficiently manage their daily expenses. This lightweight application provides essential tools for tracking, categorizing, and analyzing spending patterns.
 
 ## Description
 
-The **Expense Tracker** is a simple program designed to keep track of your expenses. It allows you to record, categorize, and view your spending habits over time. This application provides a straightforward interface for managing financial records, making it easier to stay within your budget.
+The **Expense Tracker** is a simple yet powerful tool for recording and organizing your expenses. With features like category filtering and total expense calculations, it enables users to gain better control over their finances. The application utilizes Python's functional programming features, including lambda functions, to handle data efficiently.
 
 ## Features
-- **Add Expenses**: Record expenses with a description, amount, and category.
-- **View Expenses**: Display all recorded expenses in an organized format.
-- **Search and Filter**: Search for expenses by category, date, or description.
-- **Summary Report**: Get a breakdown of expenses by category and total spending.
+- **Add Expenses**: Record details like description, amount, and category.
+- **Filter by Category**: View expenses grouped by specific categories.
+- **Sort and Analyze**: Organize expenses by date, amount, or category.
+- **Calculate Totals**: Instantly compute total spending.
 
 ## How to Use
 1. Clone the repository:
